@@ -1,0 +1,4 @@
+tox
+py.test
+Sphinx
+sphinx_rtd_theme
